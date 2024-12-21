@@ -1,0 +1,2053 @@
+[
+  {
+    "id": 1,
+    "name": "Miya",
+    "roles": [
+      "Marksman"
+    ],
+    "portrait": "/api/images/portrait/Hero011-portrait.png",
+    "icon": "/api/images/icon/Hero011-icon.png",
+    "durability": 1,
+    "offense": 7,
+    "control_effects": 4,
+    "difficulty": 1,
+    "early": 0,
+    "mid": 0,
+    "late": 1
+  },
+  {
+    "id": 2,
+    "name": "Balmond",
+    "roles": [
+      "Fighter"
+    ],
+    "portrait": "/api/images/portrait/Hero021-portrait.png",
+    "icon": "/api/images/icon/Hero021-icon.png",
+    "durability": 8,
+    "offense": 3,
+    "control_effects": 2,
+    "difficulty": 1,
+    "early": 1,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 3,
+    "name": "Saber",
+    "roles": [
+      "Assassin"
+    ],
+    "portrait": "/api/images/portrait/Hero031-portrait.png",
+    "icon": "/api/images/icon/Hero031-icon.png",
+    "durability": 2,
+    "offense": 6,
+    "control_effects": 6,
+    "difficulty": 1,
+    "early": 0,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 4,
+    "name": "Alice",
+    "roles": [
+      "Mage",
+      "Tank"
+    ],
+    "portrait": "/api/images/portrait/Hero041-portrait.png",
+    "icon": "/api/images/icon/Hero041-icon.png",
+    "durability": 5,
+    "offense": 5,
+    "control_effects": 7,
+    "difficulty": 7,
+    "early": 0,
+    "mid": 0,
+    "late": 1
+  },
+  {
+    "id": 5,
+    "name": "Nana",
+    "roles": [
+      "Mage"
+    ],
+    "portrait": "/api/images/portrait/Hero051-portrait.png",
+    "icon": "/api/images/icon/Hero051-icon.png",
+    "durability": 5,
+    "offense": 6,
+    "control_effects": 10,
+    "difficulty": 1,
+    "early": 0,
+    "mid": 0,
+    "late": 1
+  },
+  {
+    "id": 6,
+    "name": "Tigreal",
+    "roles": [
+      "Tank"
+    ],
+    "portrait": "/api/images/portrait/Hero061-portrait.png",
+    "icon": "/api/images/icon/Hero061-icon.png",
+    "durability": 8,
+    "offense": 1,
+    "control_effects": 10,
+    "difficulty": 1,
+    "early": 1,
+    "mid": 0,
+    "late": 0
+  },
+  {
+    "id": 7,
+    "name": "Alucard",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "portrait": "/api/images/portrait/Hero071-portrait.png",
+    "icon": "/api/images/icon/Hero071-icon.png",
+    "durability": 5,
+    "offense": 5,
+    "control_effects": 1,
+    "difficulty": 4,
+    "early": 0,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 8,
+    "name": "Karina",
+    "roles": [
+      "Assassin"
+    ],
+    "portrait": "/api/images/portrait/Hero081-portrait.png",
+    "icon": "/api/images/icon/Hero081-icon.png",
+    "durability": 5,
+    "offense": 7,
+    "control_effects": 1,
+    "difficulty": 4,
+    "early": 0,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 9,
+    "name": "Akai",
+    "roles": [
+      "Tank"
+    ],
+    "portrait": "/api/images/portrait/Hero091-portrait.png",
+    "icon": "/api/images/icon/Hero091-icon.png",
+    "durability": 9,
+    "offense": 3,
+    "control_effects": 9,
+    "difficulty": 3,
+    "early": 1,
+    "mid": 0,
+    "late": 0
+  },
+  {
+    "id": 10,
+    "name": "Franco",
+    "roles": [
+      "Tank"
+    ],
+    "portrait": "/api/images/portrait/Hero101-portrait.png",
+    "icon": "/api/images/icon/Hero101-icon.png",
+    "durability": 8,
+    "offense": 1,
+    "control_effects": 10,
+    "difficulty": 2,
+    "early": 1,
+    "mid": 0,
+    "late": 0
+  },
+  {
+    "id": 11,
+    "name": "Bane",
+    "roles": [
+      "Fighter",
+      "Mage"
+    ],
+    "portrait": "/api/images/portrait/Hero111-portrait.png",
+    "icon": "/api/images/icon/Hero111-icon.png",
+    "durability": 5,
+    "offense": 6,
+    "control_effects": 4,
+    "difficulty": 3,
+    "early": 0,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 12,
+    "name": "Bruno",
+    "roles": [
+      "Marksman"
+    ],
+    "portrait": "/api/images/portrait/Hero121-portrait.png",
+    "icon": "/api/images/icon/Hero121-icon.png",
+    "durability": 2,
+    "offense": 6,
+    "control_effects": 2,
+    "difficulty": 5,
+    "early": 0,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 13,
+    "name": "Clint",
+    "roles": [
+      "Marksman"
+    ],
+    "portrait": "/api/images/portrait/Hero131-portrait.png",
+    "icon": "/api/images/icon/Hero131-icon.png",
+    "durability": 3,
+    "offense": 7,
+    "control_effects": 4,
+    "difficulty": 7,
+    "early": 0,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 14,
+    "name": "Rafaela",
+    "roles": [
+      "Support"
+    ],
+    "portrait": "/api/images/portrait/Hero141-portrait.png",
+    "icon": "/api/images/icon/Hero141-icon.png",
+    "durability": 6,
+    "offense": 2,
+    "control_effects": 7,
+    "difficulty": 2,
+    "early": 0,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 15,
+    "name": "Eudora",
+    "roles": [
+      "Mage"
+    ],
+    "portrait": "/api/images/portrait/Hero151-portrait.png",
+    "icon": "/api/images/icon/Hero151-icon.png",
+    "durability": 1,
+    "offense": 8,
+    "control_effects": 8,
+    "difficulty": 1,
+    "early": 0,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 16,
+    "name": "Zilong",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "portrait": "/api/images/portrait/Hero161-portrait.png",
+    "icon": "/api/images/icon/Hero161-icon.png",
+    "durability": 2,
+    "offense": 5,
+    "control_effects": 6,
+    "difficulty": 1,
+    "early": 0,
+    "mid": 0,
+    "late": 1
+  },
+  {
+    "id": 17,
+    "name": "Fanny",
+    "roles": [
+      "Assassin"
+    ],
+    "portrait": "/api/images/portrait/Hero171-portrait.png",
+    "icon": "/api/images/icon/Hero171-icon.png",
+    "durability": 6,
+    "offense": 7,
+    "control_effects": 1,
+    "difficulty": 10,
+    "early": 1,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 18,
+    "name": "Layla",
+    "roles": [
+      "Marksman"
+    ],
+    "portrait": "/api/images/portrait/Hero181-portrait.png",
+    "icon": "/api/images/icon/Hero181-icon.png",
+    "durability": 1,
+    "offense": 8,
+    "control_effects": 1,
+    "difficulty": 1,
+    "early": 0,
+    "mid": 0,
+    "late": 1
+  },
+  {
+    "id": 19,
+    "name": "Minotaur",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "portrait": "/api/images/portrait/Hero191-portrait.png",
+    "icon": "/api/images/icon/Hero191-icon.png",
+    "durability": 10,
+    "offense": 1,
+    "control_effects": 8,
+    "difficulty": 4,
+    "early": 1,
+    "mid": 0,
+    "late": 0
+  },
+  {
+    "id": 20,
+    "name": "Lolita",
+    "roles": [
+      "Support",
+      "Tank"
+    ],
+    "portrait": "/api/images/portrait/Hero201-portrait.png",
+    "icon": "/api/images/icon/Hero201-icon.png",
+    "durability": 10,
+    "offense": 1,
+    "control_effects": 9,
+    "difficulty": 4,
+    "early": 1,
+    "mid": 0,
+    "late": 0
+  },
+  {
+    "id": 21,
+    "name": "Hayabusa",
+    "roles": [
+      "Assassin"
+    ],
+    "portrait": "/api/images/portrait/Hero211-portrait.png",
+    "icon": "/api/images/icon/Hero211-icon.png",
+    "durability": 4,
+    "offense": 5,
+    "control_effects": 1,
+    "difficulty": 5,
+    "early": 0,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 22,
+    "name": "Freya",
+    "roles": [
+      "Fighter"
+    ],
+    "portrait": "/api/images/portrait/Hero221-portrait.png",
+    "icon": "/api/images/icon/Hero221-icon.png",
+    "durability": 6,
+    "offense": 5,
+    "control_effects": 5,
+    "difficulty": 5,
+    "early": 0,
+    "mid": 1,
+    "late": 1
+  },
+  {
+    "id": 23,
+    "name": "Gord",
+    "roles": [
+      "Mage"
+    ],
+    "portrait": "/api/images/portrait/Hero231-portrait.png",
+    "icon": "/api/images/icon/Hero231-icon.png",
+    "durability": 1,
+    "offense": 7,
+    "control_effects": 8,
+    "difficulty": 2,
+    "early": 0,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 24,
+    "name": "Natalia",
+    "roles": [
+      "Assassin"
+    ],
+    "portrait": "/api/images/portrait/Hero241-portrait.png",
+    "icon": "/api/images/icon/Hero241-icon.png",
+    "durability": 1,
+    "offense": 6,
+    "control_effects": 6,
+    "difficulty": 9,
+    "early": 0,
+    "mid": 0,
+    "late": 1
+  },
+  {
+    "id": 25,
+    "name": "Kagura",
+    "roles": [
+      "Mage"
+    ],
+    "portrait": "/api/images/portrait/Hero251-portrait.png",
+    "icon": "/api/images/icon/Hero251-icon.png",
+    "durability": 3,
+    "offense": 4,
+    "control_effects": 9,
+    "difficulty": 8,
+    "early": 0,
+    "mid": 0,
+    "late": 1
+  },
+  {
+    "id": 26,
+    "name": "Chou",
+    "roles": [
+      "Fighter"
+    ],
+    "portrait": "/api/images/portrait/Hero261-portrait.png",
+    "icon": "/api/images/icon/Hero261-icon.png",
+    "durability": 5,
+    "offense": 3,
+    "control_effects": 8,
+    "difficulty": 7,
+    "early": 1,
+    "mid": 0,
+    "late": 0
+  },
+  {
+    "id": 27,
+    "name": "Sun",
+    "roles": [
+      "Fighter"
+    ],
+    "portrait": "/api/images/portrait/Hero271-portrait.png",
+    "icon": "/api/images/icon/Hero271-icon.png",
+    "durability": 5,
+    "offense": 5,
+    "control_effects": 1,
+    "difficulty": 3,
+    "early": 0,
+    "mid": 0,
+    "late": 1
+  },
+  {
+    "id": 28,
+    "name": "Alpha",
+    "roles": [
+      "Fighter"
+    ],
+    "portrait": "/api/images/portrait/Hero281-portrait.png",
+    "icon": "/api/images/icon/Hero281-icon.png",
+    "durability": 6,
+    "offense": 4,
+    "control_effects": 7,
+    "difficulty": 1,
+    "early": 1,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 29,
+    "name": "Ruby",
+    "roles": [
+      "Fighter"
+    ],
+    "portrait": "/api/images/portrait/Hero291-portrait.png",
+    "icon": "/api/images/icon/Hero291-icon.png",
+    "durability": 9,
+    "offense": 2,
+    "control_effects": 9,
+    "difficulty": 4,
+    "early": 1,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 30,
+    "name": "Yi Sun-shin",
+    "roles": [
+      "Assassin",
+      "Marksman"
+    ],
+    "portrait": "/api/images/portrait/Hero301-portrait.png",
+    "icon": "/api/images/icon/Hero301-icon.png",
+    "durability": 4,
+    "offense": 9,
+    "control_effects": 2,
+    "difficulty": 7,
+    "early": 0,
+    "mid": 0,
+    "late": 1
+  },
+  {
+    "id": 31,
+    "name": "Moskov",
+    "roles": [
+      "Marksman"
+    ],
+    "portrait": "/api/images/portrait/Hero311-portrait.png",
+    "icon": "/api/images/icon/Hero311-icon.png",
+    "durability": 2,
+    "offense": 6,
+    "control_effects": 6,
+    "difficulty": 5,
+    "early": 0,
+    "mid": 0,
+    "late": 1
+  },
+  {
+    "id": 32,
+    "name": "Johnson",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "portrait": "/api/images/portrait/Hero321-portrait.png",
+    "icon": "/api/images/icon/Hero321-icon.png",
+    "durability": 8,
+    "offense": 3,
+    "control_effects": 9,
+    "difficulty": 5,
+    "early": 1,
+    "mid": 0,
+    "late": 0
+  },
+  {
+    "id": 33,
+    "name": "Cyclops",
+    "roles": [
+      "Mage"
+    ],
+    "portrait": "/api/images/portrait/Hero331-portrait.png",
+    "icon": "/api/images/icon/Hero331-icon.png",
+    "durability": 3,
+    "offense": 10,
+    "control_effects": 7,
+    "difficulty": 6,
+    "early": 0,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 34,
+    "name": "Estes",
+    "roles": [
+      "Support"
+    ],
+    "portrait": "/api/images/portrait/Hero341-portrait.png",
+    "icon": "/api/images/icon/Hero341-icon.png",
+    "durability": 7,
+    "offense": 1,
+    "control_effects": 2,
+    "difficulty": 3,
+    "early": 0,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 35,
+    "name": "Hilda",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "portrait": "/api/images/portrait/Hero351-portrait.png",
+    "icon": "/api/images/icon/Hero351-icon.png",
+    "durability": 9,
+    "offense": 4,
+    "control_effects": 4,
+    "difficulty": 4,
+    "early": 1,
+    "mid": 0,
+    "late": 0
+  },
+  {
+    "id": 36,
+    "name": "Aurora",
+    "roles": [
+      "Mage"
+    ],
+    "portrait": "/api/images/portrait/Hero361-portrait.png",
+    "icon": "/api/images/icon/Hero361-icon.png",
+    "durability": 4,
+    "offense": 7,
+    "control_effects": 10,
+    "difficulty": 1,
+    "early": 1,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 37,
+    "name": "Lapu-Lapu",
+    "roles": [
+      "Fighter"
+    ],
+    "portrait": "/api/images/portrait/Hero371-portrait.png",
+    "icon": "/api/images/icon/Hero371-icon.png",
+    "durability": 8,
+    "offense": 4,
+    "control_effects": 4,
+    "difficulty": 5,
+    "early": 1,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 38,
+    "name": "Vexana",
+    "roles": [
+      "Mage"
+    ],
+    "portrait": "/api/images/portrait/Hero381-portrait.png",
+    "icon": "/api/images/icon/Hero381-icon.png",
+    "durability": 2,
+    "offense": 9,
+    "control_effects": 5,
+    "difficulty": 1,
+    "early": 1,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 39,
+    "name": "Roger",
+    "roles": [
+      "Fighter",
+      "Marksman"
+    ],
+    "portrait": "/api/images/portrait/Hero391-portrait.png",
+    "icon": "/api/images/icon/Hero391-icon.png",
+    "durability": 6,
+    "offense": 4,
+    "control_effects": 1,
+    "difficulty": 5,
+    "early": 0,
+    "mid": 1,
+    "late": 1
+  },
+  {
+    "id": 40,
+    "name": "Karrie",
+    "roles": [
+      "Marksman"
+    ],
+    "portrait": "/api/images/portrait/Hero401-portrait.png",
+    "icon": "/api/images/icon/Hero401-icon.png",
+    "durability": 3,
+    "offense": 8,
+    "control_effects": 1,
+    "difficulty": 4,
+    "early": 0,
+    "mid": 1,
+    "late": 1
+  },
+  {
+    "id": 41,
+    "name": "Gatotkaca",
+    "roles": [
+      "Tank",
+      "Fighter"
+    ],
+    "portrait": "/api/images/portrait/Hero411-portrait.png",
+    "icon": "/api/images/icon/Hero411-icon.png",
+    "durability": 9,
+    "offense": 3,
+    "control_effects": 9,
+    "difficulty": 1,
+    "early": 1,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 42,
+    "name": "Harley",
+    "roles": [
+      "Assassin",
+      "Mage"
+    ],
+    "portrait": "/api/images/portrait/Hero421-portrait.png",
+    "icon": "/api/images/icon/Hero421-icon.png",
+    "durability": 3,
+    "offense": 9,
+    "control_effects": 1,
+    "difficulty": 6,
+    "early": 1,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 43,
+    "name": "Irithel",
+    "roles": [
+      "Marksman"
+    ],
+    "portrait": "/api/images/portrait/Hero431-portrait.png",
+    "icon": "/api/images/icon/Hero431-icon.png",
+    "durability": 1,
+    "offense": 8,
+    "control_effects": 1,
+    "difficulty": 5,
+    "early": 0,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 44,
+    "name": "Grock",
+    "roles": [
+      "Tank",
+      "Fighter"
+    ],
+    "portrait": "/api/images/portrait/Hero441-portrait.png",
+    "icon": "/api/images/icon/Hero441-icon.png",
+    "durability": 9,
+    "offense": 4,
+    "control_effects": 8,
+    "difficulty": 6,
+    "early": 1,
+    "mid": 0,
+    "late": 0
+  },
+  {
+    "id": 45,
+    "name": "Argus",
+    "roles": [
+      "Fighter"
+    ],
+    "portrait": "/api/images/portrait/Hero451-portrait.png",
+    "icon": "/api/images/icon/Hero451-icon.png",
+    "durability": 7,
+    "offense": 5,
+    "control_effects": 5,
+    "difficulty": 6,
+    "early": 0,
+    "mid": 0,
+    "late": 1
+  },
+  {
+    "id": 46,
+    "name": "Odette",
+    "roles": [
+      "Mage"
+    ],
+    "portrait": "/api/images/portrait/Hero461-portrait.png",
+    "icon": "/api/images/icon/Hero461-icon.png",
+    "durability": 3,
+    "offense": 10,
+    "control_effects": 8,
+    "difficulty": 2,
+    "early": 0,
+    "mid": 1,
+    "late": 1
+  },
+  {
+    "id": 47,
+    "name": "Lancelot",
+    "roles": [
+      "Assassin"
+    ],
+    "portrait": "/api/images/portrait/Hero471-portrait.png",
+    "icon": "/api/images/icon/Hero471-icon.png",
+    "durability": 4,
+    "offense": 5,
+    "control_effects": 1,
+    "difficulty": 5,
+    "early": 1,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 48,
+    "name": "Diggie",
+    "roles": [
+      "Support"
+    ],
+    "portrait": "/api/images/portrait/Hero481-portrait.png",
+    "icon": "/api/images/icon/Hero481-icon.png",
+    "durability": 4,
+    "offense": 4,
+    "control_effects": 2,
+    "difficulty": 5,
+    "early": 1,
+    "mid": 0,
+    "late": 0
+  },
+  {
+    "id": 49,
+    "name": "Hylos",
+    "roles": [
+      "Tank"
+    ],
+    "portrait": "/api/images/portrait/Hero491-portrait.png",
+    "icon": "/api/images/icon/Hero491-icon.png",
+    "durability": 10,
+    "offense": 2,
+    "control_effects": 8,
+    "difficulty": 3,
+    "early": 1,
+    "mid": 0,
+    "late": 0
+  },
+  {
+    "id": 50,
+    "name": "Zhask",
+    "roles": [
+      "Mage"
+    ],
+    "portrait": "/api/images/portrait/Hero501-portrait.png",
+    "icon": "/api/images/icon/Hero501-icon.png",
+    "durability": 1,
+    "offense": 10,
+    "control_effects": 4,
+    "difficulty": 4,
+    "early": 0,
+    "mid": 1,
+    "late": 1
+  },
+  {
+    "id": 51,
+    "name": "Helcurt",
+    "roles": [
+      "Assassin"
+    ],
+    "portrait": "/api/images/portrait/Hero511-portrait.png",
+    "icon": "/api/images/icon/Hero511-icon.png",
+    "durability": 3,
+    "offense": 5,
+    "control_effects": 5,
+    "difficulty": 5,
+    "early": 1,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 52,
+    "name": "Pharsa",
+    "roles": [
+      "Mage"
+    ],
+    "portrait": "/api/images/portrait/Hero521-portrait.png",
+    "icon": "/api/images/icon/Hero521-icon.png",
+    "durability": 2,
+    "offense": 9,
+    "control_effects": 5,
+    "difficulty": 3,
+    "early": 0,
+    "mid": 1,
+    "late": 1
+  },
+  {
+    "id": 53,
+    "name": "Lesley",
+    "roles": [
+      "Marksman",
+      "Assassin"
+    ],
+    "portrait": "/api/images/portrait/Hero531-portrait.png",
+    "icon": "/api/images/icon/Hero531-icon.png",
+    "durability": 1,
+    "offense": 7,
+    "control_effects": 2,
+    "difficulty": 4,
+    "early": 0,
+    "mid": 0,
+    "late": 1
+  },
+  {
+    "id": 54,
+    "name": "Jawhead",
+    "roles": [
+      "Fighter"
+    ],
+    "portrait": "/api/images/portrait/Hero541-portrait.png",
+    "icon": "/api/images/icon/Hero541-icon.png",
+    "durability": 6,
+    "offense": 3,
+    "control_effects": 6,
+    "difficulty": 5,
+    "early": 1,
+    "mid": 0,
+    "late": 0
+  },
+  {
+    "id": 55,
+    "name": "Angela",
+    "roles": [
+      "Support"
+    ],
+    "portrait": "/api/images/portrait/Hero551-portrait.png",
+    "icon": "/api/images/icon/Hero551-icon.png",
+    "durability": 3,
+    "offense": 2,
+    "control_effects": 5,
+    "difficulty": 5,
+    "early": 0,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 56,
+    "name": "Gusion",
+    "roles": [
+      "Assassin"
+    ],
+    "portrait": "/api/images/portrait/Hero561-portrait.png",
+    "icon": "/api/images/icon/Hero561-icon.png",
+    "durability": 3,
+    "offense": 9,
+    "control_effects": 1,
+    "difficulty": 8,
+    "early": 1,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 57,
+    "name": "Valir",
+    "roles": [
+      "Mage"
+    ],
+    "portrait": "/api/images/portrait/Hero571-portrait.png",
+    "icon": "/api/images/icon/Hero571-icon.png",
+    "durability": 2,
+    "offense": 7,
+    "control_effects": 7,
+    "difficulty": 4,
+    "early": 1,
+    "mid": 0,
+    "late": 0
+  },
+  {
+    "id": 58,
+    "name": "Martis",
+    "roles": [
+      "Fighter"
+    ],
+    "portrait": "/api/images/portrait/Hero581-portrait.png",
+    "icon": "/api/images/icon/Hero581-icon.png",
+    "durability": 6,
+    "offense": 3,
+    "control_effects": 5,
+    "difficulty": 4,
+    "early": 1,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 59,
+    "name": "Uranus",
+    "roles": [
+      "Tank"
+    ],
+    "portrait": "/api/images/portrait/Hero591-portrait.png",
+    "icon": "/api/images/icon/Hero591-icon.png",
+    "durability": 10,
+    "offense": 2,
+    "control_effects": 2,
+    "difficulty": 3,
+    "early": 0,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 60,
+    "name": "Hanabi",
+    "roles": [
+      "Marksman"
+    ],
+    "portrait": "/api/images/portrait/Hero601-portrait.png",
+    "icon": "/api/images/icon/Hero601-icon.png",
+    "durability": 2,
+    "offense": 7,
+    "control_effects": 8,
+    "difficulty": 1,
+    "early": 0,
+    "mid": 0,
+    "late": 1
+  },
+  {
+    "id": 61,
+    "name": "Chang'e",
+    "roles": [
+      "Mage"
+    ],
+    "portrait": "/api/images/portrait/Hero611-portrait.png",
+    "icon": "/api/images/icon/Hero611-icon.png",
+    "durability": 4,
+    "offense": 8,
+    "control_effects": 2,
+    "difficulty": 3,
+    "early": 0,
+    "mid": 1,
+    "late": 1
+  },
+  {
+    "id": 62,
+    "name": "Kaja",
+    "roles": [
+      "Support",
+      "Fighter"
+    ],
+    "portrait": "/api/images/portrait/Hero621-portrait.png",
+    "icon": "/api/images/icon/Hero621-icon.png",
+    "durability": 3,
+    "offense": 6,
+    "control_effects": 6,
+    "difficulty": 7,
+    "early": 1,
+    "mid": 0,
+    "late": 0
+  },
+  {
+    "id": 63,
+    "name": "Selena",
+    "roles": [
+      "Assassin",
+      "Mage"
+    ],
+    "portrait": "/api/images/portrait/Hero631-portrait.png",
+    "icon": "/api/images/icon/Hero631-icon.png",
+    "durability": 3,
+    "offense": 7,
+    "control_effects": 10,
+    "difficulty": 7,
+    "early": 1,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 64,
+    "name": "Aldous",
+    "roles": [
+      "Fighter"
+    ],
+    "portrait": "/api/images/portrait/Hero641-portrait.png",
+    "icon": "/api/images/icon/Hero641-icon.png",
+    "durability": 7,
+    "offense": 3,
+    "control_effects": 5,
+    "difficulty": 6,
+    "early": 0,
+    "mid": 0,
+    "late": 1
+  },
+  {
+    "id": 65,
+    "name": "Claude",
+    "roles": [
+      "Marksman"
+    ],
+    "portrait": "/api/images/portrait/Hero651-portrait.png",
+    "icon": "/api/images/icon/Hero651-icon.png",
+    "durability": 3,
+    "offense": 6,
+    "control_effects": 1,
+    "difficulty": 6,
+    "early": 0,
+    "mid": 1,
+    "late": 1
+  },
+  {
+    "id": 66,
+    "name": "Vale",
+    "roles": [
+      "Mage"
+    ],
+    "portrait": "/api/images/portrait/Hero661-portrait.png",
+    "icon": "/api/images/icon/Hero661-icon.png",
+    "durability": 2,
+    "offense": 1,
+    "control_effects": 7,
+    "difficulty": 2,
+    "early": 0,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 67,
+    "name": "Leomord",
+    "roles": [
+      "Fighter"
+    ],
+    "portrait": "/api/images/portrait/Hero671-portrait.png",
+    "icon": "/api/images/icon/Hero671-icon.png",
+    "durability": 7,
+    "offense": 5,
+    "control_effects": 3,
+    "difficulty": 6,
+    "early": 1,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 68,
+    "name": "Lunox",
+    "roles": [
+      "Mage"
+    ],
+    "portrait": "/api/images/portrait/Hero681-portrait.png",
+    "icon": "/api/images/icon/Hero681-icon.png",
+    "secondary_role": "",
+    "durability": 3,
+    "offense": 9,
+    "control_effects": 2,
+    "difficulty": 9,
+    "early": 0,
+    "mid": 1,
+    "late": 1
+  },
+  {
+    "id": 69,
+    "name": "Hanzo",
+    "roles": [
+      "Assassin"
+    ],
+    "portrait": "/api/images/portrait/Hero691-portrait.png",
+    "icon": "/api/images/icon/Hero691-icon.png",
+    "durability": 7,
+    "offense": 8,
+    "control_effects": 2,
+    "difficulty": 8,
+    "early": 1,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 70,
+    "name": "Belerick",
+    "roles": [
+      "Tank"
+    ],
+    "portrait": "/api/images/portrait/Hero701-portrait.png",
+    "icon": "/api/images/icon/Hero701-icon.png",
+    "durability": 9,
+    "offense": 4,
+    "control_effects": 10,
+    "difficulty": 1,
+    "early": 1,
+    "mid": 0,
+    "late": 0
+  },
+  {
+    "id": 71,
+    "name": "Kimmy",
+    "roles": [
+      "Marksman",
+      "Mage"
+    ],
+    "portrait": "/api/images/portrait/Hero711-portrait.png",
+    "icon": "/api/images/icon/Hero711-icon.png",
+    "durability": 2,
+    "offense": 10,
+    "control_effects": 1,
+    "difficulty": 9,
+    "early": 0,
+    "mid": 0,
+    "late": 1
+  },
+  {
+    "id": 72,
+    "name": "Thamuz",
+    "roles": [
+      "Fighter"
+    ],
+    "portrait": "/api/images/portrait/Hero721-portrait.png",
+    "icon": "/api/images/icon/Hero721-icon.png",
+    "durability": 7,
+    "offense": 4,
+    "control_effects": 2,
+    "difficulty": 4,
+    "early": 1,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 73,
+    "name": "Harith",
+    "roles": [
+      "Mage"
+    ],
+    "portrait": "/api/images/portrait/Hero731-portrait.png",
+    "icon": "/api/images/icon/Hero731-icon.png",
+    "durability": 4,
+    "offense": 5,
+    "control_effects": 1,
+    "difficulty": 5,
+    "early": 0,
+    "mid": 1,
+    "late": 1
+  },
+  {
+    "id": 74,
+    "name": "Minsitthar",
+    "roles": [
+      "Fighter"
+    ],
+    "portrait": "/api/images/portrait/Hero741-portrait.png",
+    "icon": "/api/images/icon/Hero741-icon.png",
+    "durability": 6,
+    "offense": 4,
+    "control_effects": 8,
+    "difficulty": 4,
+    "early": 0,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 75,
+    "name": "Kadita",
+    "roles": [
+      "Mage",
+      "Assassin"
+    ],
+    "portrait": "/api/images/portrait/Hero751-portrait.png",
+    "icon": "/api/images/icon/Hero751-icon.png",
+    "durability": 4,
+    "offense": 8,
+    "control_effects": 8,
+    "difficulty": 6,
+    "early": 1,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 76,
+    "name": "Faramis",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "portrait": "/api/images/portrait/Hero761-portrait.png",
+    "icon": "/api/images/icon/Hero761-icon.png",
+    "durability": 4,
+    "offense": 6,
+    "control_effects": 1,
+    "difficulty": 4,
+    "early": 1,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 77,
+    "name": "Badang",
+    "roles": [
+      "Fighter"
+    ],
+    "portrait": "/api/images/portrait/Hero771-portrait.png",
+    "icon": "/api/images/icon/Hero771-icon.png",
+    "durability": 4,
+    "offense": 7,
+    "control_effects": 5,
+    "difficulty": 1,
+    "early": 0,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 78,
+    "name": "Khufra",
+    "roles": [
+      "Tank"
+    ],
+    "portrait": "/api/images/portrait/Hero781-portrait.png",
+    "icon": "/api/images/icon/Hero781-icon.png",
+    "durability": 9,
+    "offense": 2,
+    "control_effects": 10,
+    "difficulty": 5,
+    "early": 1,
+    "mid": 0,
+    "late": 0
+  },
+  {
+    "id": 79,
+    "name": "Granger",
+    "roles": [
+      "Marksman"
+    ],
+    "portrait": "/api/images/portrait/Hero791-portrait.png",
+    "icon": "/api/images/icon/Hero791-icon.png",
+    "durability": 3,
+    "offense": 7,
+    "control_effects": 1,
+    "difficulty": 4,
+    "early": 0,
+    "mid": 1,
+    "late": 1
+  },
+  {
+    "id": 80,
+    "name": "Guinevere",
+    "roles": [
+      "Fighter"
+    ],
+    "portrait": "/api/images/portrait/Hero801-portrait.png",
+    "icon": "/api/images/icon/Hero801-icon.png",
+    "durability": 4,
+    "offense": 5,
+    "control_effects": 7,
+    "difficulty": 4,
+    "early": 1,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 81,
+    "name": "Esmeralda",
+    "roles": [
+      "Tank",
+      "Mage"
+    ],
+    "portrait": "/api/images/portrait/Hero811-portrait.png",
+    "icon": "/api/images/icon/Hero811-icon.png",
+    "durability": 9,
+    "offense": 3,
+    "control_effects": 6,
+    "difficulty": 6,
+    "early": 0,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 82,
+    "name": "Terizla",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "portrait": "/api/images/portrait/Hero821-portrait.png",
+    "icon": "/api/images/icon/Hero821-icon.png",
+    "durability": 9,
+    "offense": 3,
+    "control_effects": 7,
+    "difficulty": 2,
+    "early": 1,
+    "mid": 0,
+    "late": 0
+  },
+  {
+    "id": 83,
+    "name": "X.Borg",
+    "roles": [
+      "Fighter"
+    ],
+    "portrait": "/api/images/portrait/Hero831-portrait.png",
+    "icon": "/api/images/icon/Hero831-icon.png",
+    "durability": 8,
+    "offense": 3,
+    "control_effects": 1,
+    "difficulty": 4,
+    "early": 0,
+    "mid": 1,
+    "late": 1
+  },
+  {
+    "id": 84,
+    "name": "Ling",
+    "roles": [
+      "Assassin"
+    ],
+    "portrait": "/api/images/portrait/Hero841-portrait.png",
+    "icon": "/api/images/icon/Hero841-icon.png",
+    "durability": 5,
+    "offense": 6,
+    "control_effects": 3,
+    "difficulty": 7,
+    "early": 0,
+    "mid": 1,
+    "late": 1
+  },
+  {
+    "id": 85,
+    "name": "Dyrroth",
+    "roles": [
+      "Fighter"
+    ],
+    "portrait": "/api/images/portrait/Hero851-portrait.png",
+    "icon": "/api/images/icon/Hero851-icon.png",
+    "durability": 5,
+    "offense": 5,
+    "control_effects": 2,
+    "difficulty": 5,
+    "early": 1,
+    "mid": 0,
+    "late": 0
+  },
+  {
+    "id": 86,
+    "name": "Lylia",
+    "roles": [
+      "Mage"
+    ],
+    "portrait": "/api/images/portrait/Hero861-portrait.png",
+    "icon": "/api/images/icon/Hero861-icon.png",
+    "durability": 5,
+    "offense": 10,
+    "control_effects": 2,
+    "difficulty": 5,
+    "early": 0,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 87,
+    "name": "Baxia",
+    "roles": [
+      "Tank"
+    ],
+    "portrait": "/api/images/portrait/Hero871-portrait.png",
+    "icon": "/api/images/icon/Hero871-icon.png",
+    "durability": 10,
+    "offense": 3,
+    "control_effects": 6,
+    "difficulty": 2,
+    "early": 1,
+    "mid": 0,
+    "late": 0
+  },
+  {
+    "id": 88,
+    "name": "Masha",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "portrait": "/api/images/portrait/Hero881-portrait.png",
+    "icon": "/api/images/icon/Hero881-icon.png",
+    "durability": 5,
+    "offense": 7,
+    "control_effects": 3,
+    "difficulty": 3,
+    "early": 0,
+    "mid": 1,
+    "late": 1
+  },
+  {
+    "id": 89,
+    "name": "Wanwan",
+    "roles": [
+      "Marksman"
+    ],
+    "portrait": "/api/images/portrait/Hero891-portrait.png",
+    "icon": "/api/images/icon/Hero891-icon.png",
+    "durability": 2,
+    "offense": 6,
+    "control_effects": 3,
+    "difficulty": 6,
+    "early": 0,
+    "mid": 0,
+    "late": 1
+  },
+  {
+    "id": 90,
+    "name": "Silvanna",
+    "roles": [
+      "Fighter"
+    ],
+    "portrait": "/api/images/portrait/Hero901-portrait.png",
+    "icon": "/api/images/icon/Hero901-icon.png",
+    "durability": 5,
+    "offense": 4,
+    "control_effects": 7,
+    "difficulty": 2,
+    "early": 1,
+    "mid": 0,
+    "late": 0
+  },
+  {
+    "id": 91,
+    "name": "Cecilion",
+    "roles": [
+      "Mage"
+    ],
+    "portrait": "/api/images/portrait/Hero911-portrait.png",
+    "icon": "/api/images/icon/Hero911-icon.png",
+    "durability": 4,
+    "offense": 10,
+    "control_effects": 5,
+    "difficulty": 4,
+    "early": 0,
+    "mid": 0,
+    "late": 1
+  },
+  {
+    "id": 92,
+    "name": "Carmilla",
+    "roles": [
+      "Support",
+      "Tank"
+    ],
+    "portrait": "/api/images/portrait/Hero921-portrait.png",
+    "icon": "/api/images/icon/Hero921-icon.png",
+    "durability": 9,
+    "offense": 2,
+    "control_effects": 8,
+    "difficulty": 4,
+    "early": 1,
+    "mid": 0,
+    "late": 0
+  },
+  {
+    "id": 93,
+    "name": "Atlas",
+    "roles": [
+      "Tank"
+    ],
+    "portrait": "/api/images/portrait/Hero931-portrait.png",
+    "icon": "/api/images/icon/Hero931-icon.png",
+    "durability": 8,
+    "offense": 1,
+    "control_effects": 9,
+    "difficulty": 5,
+    "early": 1,
+    "mid": 0,
+    "late": 0
+  },
+  {
+    "id": 94,
+    "name": "Popol and Kupa",
+    "roles": [
+      "Marksman"
+    ],
+    "portrait": "/api/images/portrait/Hero941-portrait.png",
+    "icon": "/api/images/icon/Hero941-icon.png",
+    "durability": 3,
+    "offense": 5,
+    "control_effects": 7,
+    "difficulty": 5,
+    "early": 1,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 95,
+    "name": "Yu Zhong",
+    "roles": [
+      "Fighter"
+    ],
+    "portrait": "/api/images/portrait/Hero951-portrait.png",
+    "icon": "/api/images/icon/Hero951-icon.png",
+    "durability": 7,
+    "offense": 4,
+    "control_effects": 7,
+    "difficulty": 7,
+    "early": 1,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 96,
+    "name": "Luo Yi",
+    "roles": [
+      "Mage"
+    ],
+    "portrait": "/api/images/portrait/Hero961-portrait.png",
+    "icon": "/api/images/icon/Hero961-icon.png",
+    "durability": 2,
+    "offense": 10,
+    "control_effects": 4,
+    "difficulty": 5,
+    "early": 0,
+    "mid": 1,
+    "late": 1
+  },
+  {
+    "id": 97,
+    "name": "Benedetta",
+    "roles": [
+      "Assassin",
+      "Fighter"
+    ],
+    "portrait": "/api/images/portrait/Hero971-portrait.png",
+    "icon": "/api/images/icon/Hero971-icon.png",
+    "durability": 6,
+    "offense": 5,
+    "control_effects": 2,
+    "difficulty": 7,
+    "early": 1,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 98,
+    "name": "Khaleed",
+    "roles": [
+      "Fighter"
+    ],
+    "portrait": "/api/images/portrait/Hero981-portrait.png",
+    "icon": "/api/images/icon/Hero981-icon.png",
+    "durability": 8,
+    "offense": 5,
+    "control_effects": 5,
+    "difficulty": 5,
+    "early": 1,
+    "mid": 0,
+    "late": 0
+  },
+  {
+    "id": 99,
+    "name": "Barats",
+    "roles": [
+      "Tank",
+      "Fighter"
+    ],
+    "portrait": "/api/images/portrait/Hero991-portrait.png",
+    "icon": "/api/images/icon/Hero991-icon.png",
+    "durability": 10,
+    "offense": 3,
+    "control_effects": 9,
+    "difficulty": 4,
+    "early": 1,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 100,
+    "name": "Brody",
+    "roles": [
+      "Marksman"
+    ],
+    "portrait": "/api/images/portrait/Hero1001-portrait.png",
+    "icon": "/api/images/icon/Hero1001-icon.png",
+    "durability": 4,
+    "offense": 7,
+    "control_effects": 5,
+    "difficulty": 5,
+    "early": 1,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 101,
+    "name": "Yve",
+    "roles": [
+      "Mage"
+    ],
+    "portrait": "/api/images/portrait/Hero1011-portrait.png",
+    "icon": "/api/images/icon/Hero1011-icon.png",
+    "durability": 4,
+    "offense": 8,
+    "control_effects": 4,
+    "difficulty": 7,
+    "early": 0,
+    "mid": 1,
+    "late": 1
+  },
+  {
+    "id": 102,
+    "name": "Mathilda",
+    "roles": [
+      "Support",
+      "Assassin"
+    ],
+    "portrait": "/api/images/portrait/Hero1021-portrait.png",
+    "icon": "/api/images/icon/Hero1021-icon.png",
+    "durability": 8,
+    "offense": 2,
+    "control_effects": 4,
+    "difficulty": 4,
+    "early": 1,
+    "mid": 0,
+    "late": 0
+  },
+  {
+    "id": 103,
+    "name": "Paquito",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "portrait": "/api/images/portrait/Hero1031-portrait.png",
+    "icon": "/api/images/icon/Hero1031-icon.png",
+    "durability": 6,
+    "offense": 5,
+    "control_effects": 4,
+    "difficulty": 8,
+    "early": 0,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 104,
+    "name": "Gloo",
+    "roles": [
+      "Tank"
+    ],
+    "portrait": "/api/images/portrait/Hero1041-portrait.png",
+    "icon": "/api/images/icon/Hero1041-icon.png",
+    "durability": 10,
+    "offense": 3,
+    "control_effects": 10,
+    "difficulty": 7,
+    "early": 1,
+    "mid": 0,
+    "late": 0
+  },
+  {
+    "id": 105,
+    "name": "Beatrix",
+    "roles": [
+      "Marksman"
+    ],
+    "portrait": "/api/images/portrait/Hero1051-portrait.png",
+    "icon": "/api/images/icon/Hero1051-icon.png",
+    "durability": 3,
+    "offense": 8,
+    "control_effects": 1,
+    "difficulty": 7,
+    "early": 1,
+    "mid": 1,
+    "late": 1
+  },
+  {
+    "id": 106,
+    "name": "Phoveus",
+    "roles": [
+      "Fighter"
+    ],
+    "portrait": "/api/images/portrait/Hero1061-portrait.png",
+    "icon": "/api/images/icon/Hero1061-icon.png",
+    "durability": 8,
+    "offense": 7,
+    "control_effects": 3,
+    "difficulty": 4,
+    "early": 1,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 107,
+    "name": "Natan",
+    "roles": [
+      "Marksman"
+    ],
+    "portrait": "/api/images/portrait/Hero1071-portrait.png",
+    "icon": "/api/images/icon/Hero1071-icon.png",
+    "durability": 2,
+    "offense": 8,
+    "control_effects": 2,
+    "difficulty": 2,
+    "early": 0,
+    "mid": 0,
+    "late": 1
+  },
+  {
+    "id": 108,
+    "name": "Aulus",
+    "roles": [
+      "Fighter"
+    ],
+    "portrait": "/api/images/portrait/Hero1081-portrait.png",
+    "icon": "/api/images/icon/Hero1081-icon.png",
+    "durability": 6,
+    "offense": 6,
+    "control_effects": 1,
+    "difficulty": 4,
+    "early": 0,
+    "mid": 0,
+    "late": 1
+  },
+  {
+    "id": 109,
+    "name": "Aamon",
+    "roles": [
+      "Assassin"
+    ],
+    "portrait": "/api/images/portrait/Hero1091-portrait.png",
+    "icon": "/api/images/icon/Hero1091-icon.png",
+    "durability": 3,
+    "offense": 7,
+    "control_effects": 1,
+    "difficulty": 5,
+    "early": 1,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 110,
+    "name": "Valentina",
+    "roles": [
+      "Mage"
+    ],
+    "portrait": "/api/images/portrait/Hero1101-portrait.png",
+    "icon": "/api/images/icon/Hero1101-icon.png",
+    "durability": 5,
+    "offense": 9,
+    "control_effects": 8,
+    "difficulty": 8,
+    "early": 1,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 111,
+    "name": "Edith",
+    "roles": [
+      "Tank",
+      "Marksman"
+    ],
+    "portrait": "/api/images/portrait/Hero1111-portrait.png",
+    "icon": "/api/images/icon/Hero1111-icon.png",
+    "durability": 7,
+    "offense": 3,
+    "control_effects": 10,
+    "difficulty": 3,
+    "early": 0,
+    "mid": 1,
+    "late": 1
+  },
+  {
+    "id": 112,
+    "name": "Floryn",
+    "roles": [
+      "Support"
+    ],
+    "portrait": "/api/images/portrait/Hero1121-portrait.png",
+    "icon": "/api/images/icon/Hero1121-icon.png",
+    "durability": 6,
+    "offense": 1,
+    "control_effects": 7,
+    "difficulty": 1,
+    "early": 0,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 113,
+    "name": "Yin",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "portrait": "/api/images/portrait/Hero1131-portrait.png",
+    "icon": "/api/images/icon/Hero1131-icon.png",
+    "durability": 5,
+    "offense": 6,
+    "control_effects": 8,
+    "difficulty": 4,
+    "early": 1,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 114,
+    "name": "Melissa",
+    "roles": [
+      "Marksman"
+    ],
+    "portrait": "/api/images/portrait/Hero1141-portrait.png",
+    "icon": "/api/images/icon/Hero1141-icon.png",
+    "durability": 2,
+    "offense": 9,
+    "control_effects": 4,
+    "difficulty": 4,
+    "early": 0,
+    "mid": 1,
+    "late": 1
+  },
+  {
+    "id": 115,
+    "name": "Xavier",
+    "roles": [
+      "Mage"
+    ],
+    "portrait": "/api/images/portrait/Hero1151-portrait.png",
+    "icon": "/api/images/icon/Hero1151-icon.png",
+    "durability": 2,
+    "offense": 10,
+    "control_effects": 8,
+    "difficulty": 3,
+    "early": 0,
+    "mid": 0,
+    "late": 1
+  },
+  {
+    "id": 116,
+    "name": "Julian",
+    "roles": [
+      "Fighter",
+      "Mage"
+    ],
+    "portrait": "/api/images/portrait/Hero1161-portrait.png",
+    "icon": "/api/images/icon/Hero1161-icon.png",
+    "durability": 6,
+    "offense": 6,
+    "control_effects": 7,
+    "difficulty": 2,
+    "early": 1,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 117,
+    "name": "Fredrinn",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "portrait": "/api/images/portrait/Hero1171-portrait.png",
+    "icon": "/api/images/icon/Hero1171-icon.png",
+    "durability": 8,
+    "offense": 5,
+    "control_effects": 6,
+    "difficulty": 4,
+    "early": 1,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 118,
+    "name": "Joy",
+    "roles": [
+      "Assassin"
+    ],
+    "portrait": "/api/images/portrait/Hero1181-portrait.png",
+    "icon": "/api/images/icon/Hero1181-icon.png",
+    "durability": 3,
+    "offense": 7,
+    "control_effects": 1,
+    "difficulty": 9,
+    "early": 0,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 119,
+    "name": "Novaria",
+    "roles": [
+      "Mage"
+    ],
+    "portrait": "/api/images/portrait/Hero1191-portrait.png",
+    "icon": "/api/images/icon/Hero1191-icon.png",
+    "durability": 3,
+    "offense": 9,
+    "control_effects": 3,
+    "difficulty": 6,
+    "early": 0,
+    "mid": 1,
+    "late": 1
+  },
+  {
+    "id": 120,
+    "name": "Arlott",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "portrait": "/api/images/portrait/Hero1201-portrait.png",
+    "icon": "/api/images/icon/Hero1201-icon.png",
+    "durability": 6,
+    "offense": 6,
+    "control_effects": 5,
+    "difficulty": 5,
+    "early": 1,
+    "mid": 0,
+    "late": 0
+  },
+  {
+    "id": 121,
+    "name": "Ixia",
+    "roles": [
+      "Marksman"
+    ],
+    "portrait": "/api/images/portrait/Hero1211-portrait.png",
+    "icon": "/api/images/icon/Hero1211-icon.png",
+    "durability": 3,
+    "offense": 7,
+    "control_effects": 5,
+    "difficulty": 4,
+    "early": 0,
+    "mid": 0,
+    "late": 1
+  },
+  {
+    "id": 122,
+    "name": "Nolan",
+    "roles": [
+      "Assassin"
+    ],
+    "portrait": "/api/images/portrait/Hero1221-portrait.png",
+    "icon": "/api/images/icon/Hero1221-icon.png",
+    "durability": 3,
+    "offense": 6,
+    "control_effects": 2,
+    "difficulty": 6,
+    "early": 0,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 123,
+    "name": "Cici",
+    "roles": [
+      "Fighter"
+    ],
+    "portrait": "/api/images/portrait/Hero1231-portrait.png",
+    "icon": "/api/images/icon/Hero1231-icon.png",
+    "durability": 5,
+    "offense": 6,
+    "control_effects": 3,
+    "difficulty": 2,
+    "early": 1,
+    "mid": 1,
+    "late": 0
+  },
+  {
+    "id": 124,
+    "name": "Chip",
+    "roles": [
+      "Support",
+      "Tank"
+    ],
+    "portrait": "/api/images/portrait/Hero1241-portrait.png",
+    "icon": "/api/images/icon/Hero1241-icon.png",
+    "durability": 8,
+    "offense": 2,
+    "control_effects": 6,
+    "difficulty": 6,
+    "early": 1,
+    "mid": 0,
+    "late": 0
+  },
+  {
+    "id": 125,
+    "name": "Zhuxin",
+    "roles": [
+      "Mage"
+    ],
+    "portrait": "/api/images/portrait/Hero1251-portrait.png",
+    "icon": "/api/images/icon/Hero1251-icon.png",
+    "durability": 4,
+    "offense": 7,
+    "control_effects": 9,
+    "difficulty": 3,
+    "early": 1,
+    "mid": 1,
+    "late": 1
+  },
+  {
+    "id": 126,
+    "name": "Suyou",
+    "roles": [
+      "Assassin",
+      "Fighter"
+    ],
+    "portrait": "/api/images/portrait/Hero1261-portrait.png",
+    "icon": "/api/images/icon/Hero1261-icon.png",
+    "durability": 6,
+    "offense": 6,
+    "control_effects": 5,
+    "difficulty": 7,
+    "early": 1,
+    "mid": 1,
+    "late": 0
+  }
+]
